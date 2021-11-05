@@ -1,5 +1,5 @@
 # route53
-Some scripts for monitoring Amazon AWS route53. These were written a few years ago, now boto3 and/or AWS Route 53 Traffic Flow could be improvements.
+Some scripts for monitoring Amazon AWS route53. These were written a few years ago, now AWS Route 53 Traffic Flow could be an improvement. Updated to use boto3.
 
 * route53-get-tree.py
 
